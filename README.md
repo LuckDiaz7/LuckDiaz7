@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Dias! 👋
 
-<!--
-**LuckDiaz7/LuckDiaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** (2.º semestre) na **Universidade Positivo**[cite: 88]. Sou apaixonado por tecnologia, lógica de programação e desenvolvimento de software, buscando construir uma sólida base técnica e evoluir continuamente na carreira.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+* 🎓 Graduando em Ciência da Computação pela Universidade Positivo[cite: 88].
+* 💻 Focado no aprendizado de linguagens como Python, C/C++ e Java, além de fundamentos de desenvolvimento web.
+* 🎯 Objetivo profissional: Atuar no desenvolvimento de software, unindo resolução de problemas e boas práticas de programação.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Python, C, C++, Java.
+* **Desenvolvimento Web:** HTML5, CSS3.
+* **Controle de Versão & Ferramentas:** Git, GitHub, VS Code, Dev-C++ (GCC).
+
+---
+
+## 🌐 Conecte-se Comigo
+Acompanhe minha trajetória profissional e acadêmica nas minhas outras plataformas:
+* **LinkedIn:** [Insira aqui o link do seu perfil do LinkedIn]
+* **YouTube:** [Insira aqui o link do seu canal profissional]
+* **Instagram:** [Insira aqui o link do seu perfil profissional]
