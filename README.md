@@ -5,7 +5,7 @@ Estudante de **Ciência da Computação** (2.º semestre) na **Universidade Posi
 ---
 
 ## 🚀 Sobre Mim
-* 🎓 Graduando em Ciência da Computação pela Universidade Positivo[cite: 88].
+* 🎓 Graduando em Ciência da Computação pela Universidade Positivo.
 * 💻 Focado no aprendizado de linguagens como Python, C/C++ e Java, além de fundamentos de desenvolvimento web.
 * 🎯 Objetivo profissional: Atuar no desenvolvimento de software, unindo resolução de problemas e boas práticas de programação.
 
