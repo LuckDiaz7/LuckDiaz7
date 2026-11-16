@@ -20,6 +20,6 @@ Estudante de **Ciência da Computação** (2.º semestre) na **Universidade Posi
 
 ## 🌐 Conecte-se Comigo
 Acompanhe minha trajetória profissional e acadêmica nas minhas outras plataformas:
-* **LinkedIn:** [Insira aqui o link do seu perfil do LinkedIn]
-* **YouTube:** [Insira aqui o link do seu canal profissional]
-* **Instagram:** [Insira aqui o link do seu perfil profissional]
+* **LinkedIn:** https://www.linkedin.com/in/lucas-dias-917737288/
+* **YouTube:** https://www.youtube.com/@LucasDias-c6v
+* **Instagram:** https://www.instagram.com/lucasdias_designprofissional/
