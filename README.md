@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Dias! 👋
 
-Estudante de **Ciência da Computação** (2.º semestre) na **Universidade Positivo**[cite: 88]. Sou apaixonado por tecnologia, lógica de programação e desenvolvimento de software, buscando construir uma sólida base técnica e evoluir continuamente na carreira.
+Estudante de **Ciência da Computação** (2.º semestre) na **Universidade Positivo**. Sou apaixonado por tecnologia, lógica de programação e desenvolvimento de software, buscando construir uma sólida base técnica e evoluir continuamente na carreira.
 
 ---
 
